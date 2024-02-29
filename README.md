@@ -59,6 +59,6 @@ typedef struct binary_tree_s heap_t;
 ```
 
 ## Authors
-[emmyway](https://github.com/emmyway)
-[John Eric (Vulcanric)](https://github.com/Vulcanric)
+1. [emmyway](https://github.com/emmyway)
+2. [John Eric (Vulcanric)](https://github.com/Vulcanric)
 
