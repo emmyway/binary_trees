@@ -1,8 +1,8 @@
-# 0x1D. C - Binary trees
+# C - Binary trees
 **`C`**   **`Algorithm`**     **`Data Structure`**
 
 ## About
-`0x1D. C- Binary trees` is one of many data structure algorithms project done in C. It covers all aspect of binary trees and it types to give clear understanding of the functionality of Binary Tree and how they can be used in effective management of data.
+This project is one of many data structure algorithms project done in C. It covers all aspect of binary trees and types of it to give clear understanding of the functionality of Binary Trees and how they can be used in effective management of data.
 
 **Note: All codes written are [Betty](https://github.com/alx-tools/Betty) linter validated**
 ## Concepts Covered
