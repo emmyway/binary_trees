@@ -1,8 +1,7 @@
 #include "binary_trees.h"
-#include <stdlib.h>
 
 /**
- * binary_tree_is_root - fxn cjecks if node is a root node 
+ * binary_tree_is_root - fxn cjecks if node is a root node
  * @node: pointer to node to be checked
  * Return: 1 on success else 0
  */
